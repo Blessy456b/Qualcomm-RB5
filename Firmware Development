@@ -90,10 +90,10 @@ ubuntu:18.04-sdkmanager or ubuntu:20.04-sdkmanager: the name of docker image to 
 
 ## On Ubuntu Docker ##
 1. Create Docker container
-    # Ubuntu 18.04 docker image #
+    # Ubuntu 18.04 docker image # 
     $ sudo docker run -v /home/${USER}:/home/hostPC/ --privileged -v /dev/:/dev -v
     /run/udev:/run/udev -d --name sdkmanager_container -p 36000:22 ubuntu:18.04-sdkmanager
-    # Ubuntu 20.04 docker image #
+    # Ubuntu 20.04 docker image # (I have used this for our firmware development )
     $ sudo docker run -v /home/${USER}:/home/hostPC/ --privileged -v /dev/:/dev -v
     /run/udev:/run/udev -d --name sdkmanager_container -p 36000:22 ubuntu:20.04-sdkmanager
 
@@ -123,11 +123,11 @@ Note: For Docker users, provide the work directory as /home/hostPC/[working dire
 	3: RB5
 	4: RB5N(Non-Pop)
 	5: RB6
-	Select one number of product( 1 | 2 | 3 ...) to continue with:
+	Select one number of product( 1 | 2 | 3 ...) to continue with: ( I have used 4 )
 
 4. Select a desired platform for Robotics RBx device
 	Choose a platform for Robotics RBx device
-	Enter 1 to use LU platform, 2 to use LE platform:
+	Enter 1 to use LU platform, 2 to use LE platform: ( I have used LU - linux Ubuntu  ;LE is for Linux Embedded )
 
 ## LU PLATFORM ##
 1. Type the number of available version for image repack, for example, "1"
@@ -135,7 +135,7 @@ Note: For Docker users, provide the work directory as /home/hostPC/[working dire
         Enter 1 to use LU1.0 platform, 2 to use LU2.0 platform:
 
 2. Type the number of available version for image repack, for example, "1"
-        You chose LU1.0 platform
+        You chose LU1.0 platform ( I chose 1 )
 
 	Checking current version of release ...
 	Available versions: 
@@ -143,7 +143,7 @@ Note: For Docker users, provide the work directory as /home/hostPC/[working dire
 
 	Recommended version: QRB5165.UBUN.x.x-xxxxxx
 
-	Select one number of available version ( 1 ) to continue with: 
+	Select one number of available version ( 1 ) to continue with: ( chose 1)
 
 3. Type "1" when below message was shown to start downloading LU resources and image repacking, or type "help" for more information
 
@@ -166,7 +166,7 @@ Note: For Docker users, provide the work directory as /home/hostPC/[working dire
 	You may proceed to flash full_build to your device
 	--------------------------------------------------------
 
-NOTE: The repack process might take up to 40 minutes. 
+NOTE: The repack process might take up to 40 minutes to 1 hour. 
 
 4. After the completion of repack process, system image is generated in the working directory
 Note: For Docker users, the system image is generated in /home/hostPC/[working directory]
@@ -233,6 +233,8 @@ The device reboots after the flashing process is completed. If the sdkmanager do
 
 4. If flash process on Ubuntu systems does not work properly, copy full-build folder to a Windows PC and use Thundercomm MULTIDL_TOOL to flash the image.
 Refer to https://www.thundercomm.com/product/qualcomm-robotics-rb5-development-kit/#doc for the tool and user guide.
+
+5.If nothing happens try out the firmware development section and checkout if some step helps you out
 
 
 For additional reference please refer to:
