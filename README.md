@@ -13,7 +13,7 @@
 6. [Quantization of ML Models](#quantization-of-ml-models)
 7. [Model Training](#model-training)
 8. [Applications](#applications)
-9. [Debugging / Reflashing](#reflash)
+9. [Debugging / Reflashing](#debugging / reflashing)
 10. [Contributing](#contributing)
 11. [License](#license)
 
