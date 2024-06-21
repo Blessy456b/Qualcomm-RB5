@@ -5,7 +5,8 @@
 
 ## Table of Contents
 
-1. [Getting Started](#getting-started)
+1. [Getting Started](#getting-started) - Explore more at [Introduction to RB5](https://github.com/Blessy456b/Qualcomm-RB5/tree/Introduction-to-RB5)
+
 2. [Datasheet](#datasheet)
 3. [Firmware Development](#firmware-development)
 4. [Neural SDK Installation](#neural-sdk-installation)
