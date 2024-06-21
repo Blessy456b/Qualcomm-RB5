@@ -61,6 +61,7 @@ Guidelines and resources for training machine learning models for use with the Q
 Various applications and projects that demonstrate the capabilities of the Qualcomm RB5 platform.
 
 ## Debugging / Reflashing
+
 Various applications and projects that demonstrate the capabilities of the Qualcomm RB5 platform.
 
 ## [Contributing](#contributing)
