@@ -19,9 +19,9 @@
 
 If you're new to the Qualcomm RB5 platform, start at [Getting Started](#getting-started) to learn how to set up and use the platform.
 
-## Documentation
+## Datasheet
 
-Detailed documentation about the Qualcomm RB5 platform can be found in the `docs` directory.
+The datasheet of the SOM is attached here.
 
 ## Examples
 
