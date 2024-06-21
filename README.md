@@ -20,11 +20,10 @@
 ## Getting Started
 
 The Qualcomm Robotics RB5 Platform supports the development of smart, power-efficient and cost-effective robots by combining high-performance heterogeneous compute, Qualcomm® Artificial Intelligence (AI) Engine for on-device machine learning, computer vision, vault-like security, multimedia, Wi-Fi and cellular connectivity solutions to help solve common robotics challenges.
-+ Contains advanced robotics platform Qualcomm® QRB5165 processor.
-+ Supports widely used Linux based distributions for robotics applications.
-+ Supports multiple SDKs and tools, including Qualcomm® Neural Processing SDK for AI, Qualcomm® Robotics Vision SDK, Qualcomm® Computer Vision SDK, Qualcomm® Hexagon™ DSP SDK, Robotics Operating System (ROS) 2, and multiple Linux distributions.
-+ Comprehensive set of demo applications and tutorials to accelerate development of robotics applications.
-+ Compliance with the 96Board, support for sensors such as multiple cameras, depth sensing solution, GMSL sensor, Ultrasonic Time-of-Flight Sensor with Extended Range, multi-mic and additional sensors like IMU, pressure sensor, magnetometer etc.
++ Contains advanced robotics platform **Qualcomm® QRB5165 processor.**
++ Supports widely used **Linux based distributions, ROS 2 for robotics applications.**
++ Supports multiple SDKs and tools, including **Qualcomm® Neural Processing SDK for AI, Qualcomm® Robotics Vision SDK, Qualcomm® Computer Vision SDK, Qualcomm® Hexagon™ DSP SDK**
++ Compliance with the **96Board, support for sensors such as multiple cameras, depth sensing solution, GMSL sensor, Ultrasonic Time-of-Flight Sensor with Extended Range, multi-mic and additional sensors like IMU, pressure sensor, magnetometer etc.**
 + Multiple interfaces and I/Os which can connect multiple sensors.
 
 
