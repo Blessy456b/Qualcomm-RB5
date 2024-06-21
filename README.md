@@ -1,20 +1,19 @@
 # Qualcomm-RB5
  The Qualcomm® Robotics RB5 Development Kit “World’s first 5G and AI-enabled robotics platform”  is powered by the Qualcomm® QRB5165 Robotics SoC ( System on Computer ). This kit features a robotics-focused development board that adheres to the 96Boards open hardware specification.
- # Project Name
 
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
-2. [Documentation](#documentation)
-3. [Examples](#examples)
-4. [Contributing](#contributing)
+2. [Datasheet](#datasheet)
+3. [Firmware Development](#firmware-development)
+4. [Neural SDK Installation](#neural-sdk-installation)
+5. [YOLO Models](#yolo-models)
+6. [Quantization of ML Models](#quantization-of-ml-models)
+7. [Model Training](#model-training)
+8. [Applications](#applications)
+9. [Debugging / Reflashing](#reflash)
+9. [Contributing](#contributing)
 5. [License](#license)
-6. [Firmware Development](#firmware-development)
-7. [Neural SDK Installation](#neural-sdk-installation)
-8. [YOLO Models](#yolo-models)
-9. [Quantization of ML Models](#quantization-of-ml-models)
-10. [Model Training](#model-training)
-11. [Applications](#applications)
 
 ## Getting Started
 
