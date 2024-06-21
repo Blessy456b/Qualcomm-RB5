@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-1. [Getting Started](#getting-started) - Explore more at [Introduction to RB5](https://github.com/Blessy456b/Qualcomm-RB5/tree/RB5-Getting Started.pdf)
+1. [Getting Started](#getting-started) - Explore more at [Introduction to RB5](RB5-Getting Started.pdf)
 
 2. [Datasheet](#datasheet)
 3. [Firmware Development](#firmware-development)
