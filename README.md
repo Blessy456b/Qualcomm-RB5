@@ -7,7 +7,7 @@
 
 1. [Getting Started](#getting-started) - Explore more at [Introduction to RB5](RB5-Getting%20Started.pdf)
 
-2. [Datasheet](#datasheet)
+2. [Datasheet](RB5_DATASHEET.pdf) 
 3. [Firmware Development](#firmware-development)
 4. [Neural SDK Installation](#neural-sdk-installation)
 5. [YOLO Models](#yolo-models)
