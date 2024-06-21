@@ -21,19 +21,18 @@
 
 If you're new to the Qualcomm RB5 platform, start at [Getting Started](#getting-started) to learn how to set up and use the platform.
 
-## Documentation
+## Datasheet
 
 Detailed documentation about the Qualcomm RB5 platform can be found in the `docs` directory.
 
-## Examples
+## Firmware Development
 
 Explore code examples and projects built with the Qualcomm RB5 platform in the `examples` directory.
 
-## Contributing
-
+## Neural SDK Installation
 We welcome contributions from the community. If you have documentation, code samples, or resources to share, please see our [contribution guidelines](CONTRIBUTING.md).
 
-## License
+## YOLO Models
 
 This project is licensed under Tihan, IIT Hyderabad.
 
@@ -60,6 +59,23 @@ Guidelines and resources for training machine learning models for use with the Q
 ## Applications
 
 Various applications and projects that demonstrate the capabilities of the Qualcomm RB5 platform.
+
+## Debugging / Reflashing
+Various applications and projects that demonstrate the capabilities of the Qualcomm RB5 platform.
+
+## [Contributing](#contributing)
+
+Various applications and projects that demonstrate the capabilities of the Qualcomm RB5 platform.
+
+## License
+
+
+Various applications and projects that demonstrate the capabilities of the Qualcomm RB5 platform.
+
+
+
+
+
 
 
 
