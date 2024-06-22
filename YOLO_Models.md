@@ -1,4 +1,4 @@
-YOLO Models: Real-Time Object Detection with Qualcomm RB5##
+##YOLO Models: Real-Time Object Detection with Qualcomm RB5
 
 ## Overview of YOLO
 YOLO (You Only Look Once) is a cutting-edge object detection system designed for real-time processing. On a Pascal Titan X GPU, it achieves 30 frames per second (FPS) and a mean Average Precision (mAP) of 57.9% on the COCO test-dev dataset.
@@ -21,4 +21,10 @@ To detect objects using a pre-trained YOLO model, follow these steps:
    cd darknet
    make
 2.Download the pre-trained weights:
+ ```bash
 wget https://pjreddie.com/media/files/yolov3.weights
+3.Run the detector:
+bash
+Copy code
+./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg
+4.
