@@ -11,7 +11,7 @@ Unlike traditional detection systems that use classifiers or localizers on an im
 
 ## YOLOv3 Improvements
 YOLOv3 introduces several enhancements such as multi-scale predictions, an improved backbone classifier, and more. For detailed information, refer to the YOLOv3 paper.
-##  Additional Fear
+
 ## Using Pre-Trained Models
 To detect objects using a pre-trained YOLO model, follow these steps:
 
@@ -26,4 +26,9 @@ To detect objects using a pre-trained YOLO model, follow these steps:
 3. Run the detector:
 ```bash
 ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg
+
+
+
+
+
 
