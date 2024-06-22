@@ -1,4 +1,4 @@
-## YOLO Models:Object Detection with Qualcomm RB5 ( IMAGE )
+## YOLOV3 Models:Object Detection with Qualcomm RB5 ( IMAGE )
 
 ## Overview of YOLO
 YOLO (You Only Look Once) is a cutting-edge object detection system designed for real-time processing. On a Pascal Titan X GPU, it achieves 30 frames per second (FPS) and a mean Average Precision (mAP) of 57.9% on the COCO test-dev dataset.
