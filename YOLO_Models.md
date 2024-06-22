@@ -20,12 +20,12 @@ To detect objects using a pre-trained YOLO model, follow these steps:
    git clone https://github.com/pjreddie/darknet
    cd darknet
    make
-2.Download the pre-trained weights:
- ```bash
-wget https://pjreddie.com/media/files/yolov3.weights
+2. Download the pre-trained weights:
+   ```bash
+   wget https://pjreddie.com/media/files/yolov3.weights
 
-3.Run the detector:
+3. Run the detector:
 bash
 ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg
 
-4.
+4. 
